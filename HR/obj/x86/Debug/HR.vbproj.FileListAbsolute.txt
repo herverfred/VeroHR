@@ -1,0 +1,103 @@
+E:\VBProject\HR\HR\bin\Debug\HR.exe
+E:\VBProject\HR\HR\bin\Debug\HR.pdb
+E:\VBProject\HR\HR\bin\Debug\HR.xml
+E:\VBProject\HR\HR\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\VBProject\HR\HR\bin\Debug\office.dll
+E:\VBProject\HR\HR\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\VBProject\HR\HR\bin\Debug\office.xml
+E:\VBProject\HR\HR\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\VBProject\HR\HR\obj\x86\Debug\HR.LogIN_Form.resources
+E:\VBProject\HR\HR\obj\x86\Debug\HR.Main_Form.resources
+E:\VBProject\HR\HR\obj\x86\Debug\HR.Resources.resources
+E:\VBProject\HR\HR\obj\x86\Debug\HR.PW_Form.resources
+E:\VBProject\HR\HR\obj\x86\Debug\HR.Waiting_Form.resources
+E:\VBProject\HR\HR\obj\x86\Debug\ResGen.read.1.tlog
+E:\VBProject\HR\HR\obj\x86\Debug\ResGen.write.1.tlog
+E:\VBProject\HR\HR\obj\x86\Debug\HR.exe
+E:\VBProject\HR\HR\obj\x86\Debug\HR.xml
+E:\VBProject\HR\HR\obj\x86\Debug\HR.pdb
+E:\VBProject\HR\HR\obj\x86\Debug\HR.KaoZhong_Form.resources
+E:\VBProject\HR\HR\bin\Debug\HR.exe.manifest
+E:\VBProject\HR\HR\bin\Debug\HR.application
+E:\VBProject\HR\HR\obj\x86\Debug\HR.TrustInfo.xml
+E:\VBProject\HR\HR\obj\x86\Debug\HR.exe.manifest
+E:\VBProject\HR\HR\obj\x86\Debug\HR.application
+E:\VBProject\HR\HR\obj\x86\Debug\HR.PaiBan_Form.resources
+E:\VBProject\HR\HR\obj\x86\Debug\HR.RenYuan_Form.resources
+E:\VBProject\HR\HR\obj\x86\Debug\HR.RollCall_Form.resources
+E:\VBProject\HR\HR\obj\x86\Debug\HR.RollCallReport_Form.resources
+E:\VBProject\HR\HR\obj\x86\Debug\HR.RollCallReport_Print.resources
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\HR.exe
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\HR.xml
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\HR.pdb
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\HR.RollCallReport_Form.resources
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\HR.RollCallReport_Print.resources
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\HR.RollCall_Form.resources
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\HR.KaoZhong_Form.resources
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\HR.LogIN_Form.resources
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\HR.Main_Form.resources
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\HR.Resources.resources
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\HR.PaiBan_Form.resources
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\HR.PW_Form.resources
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\HR.RenYuan_Form.resources
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\HR.Waiting_Form.resources
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\bin\Debug\HR.exe.manifest
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\bin\Debug\HR.application
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\bin\Debug\HR.exe
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\bin\Debug\HR.pdb
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\bin\Debug\HR.xml
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\HR.TrustInfo.xml
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\HR.exe.manifest
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\HR.application
+C:\Documents and Settings\32800059\桌面\HR1\HR\HR\obj\x86\Debug\HR.NONRollCallReport_Form.resources
+C:\Documents and Settings\32800059\桌面\20140714\HR\HR\obj\x86\Debug\HR.exe
+C:\Documents and Settings\32800059\桌面\20140714\HR\HR\obj\x86\Debug\HR.xml
+C:\Documents and Settings\32800059\桌面\20140714\HR\HR\obj\x86\Debug\HR.pdb
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.exe
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.xml
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.pdb
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.NONRollCallReport_Form.resources
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.RollCallReport_Form.resources
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.RollCallReport_Print.resources
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.LogIN_Form.resources
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.Main_Form.resources
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.Resources.resources
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.PaiBan_Form.resources
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.PW_Form.resources
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.Waiting_Form.resources
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.vbproj.GenerateResource.Cache
+C:\Users\82030\Desktop\HR\HR\bin\Debug\HR.exe.manifest
+C:\Users\82030\Desktop\HR\HR\bin\Debug\HR.application
+C:\Users\82030\Desktop\HR\HR\bin\Debug\HR.exe
+C:\Users\82030\Desktop\HR\HR\bin\Debug\HR.pdb
+C:\Users\82030\Desktop\HR\HR\bin\Debug\HR.xml
+C:\Users\82030\Desktop\HR\HR\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\82030\Desktop\HR\HR\bin\Debug\office.dll
+C:\Users\82030\Desktop\HR\HR\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\82030\Desktop\HR\HR\bin\Debug\office.xml
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.KaoZhong_Form.resources
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.RenYuan_Form.resources
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.RollCall_Form.resources
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.TrustInfo.xml
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.exe.manifest
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.application
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.RenYuanPaiBan_Form.resources
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.ShJuCaiJi_Form.resources
+C:\Users\82030\Desktop\HR\HR\bin\Debug\HR.exe.config
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.AllRollCall_Form.resources
+C:\Users\82030\Desktop\HR\HR\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\82030\Desktop\HR\HR\bin\Debug\System.Data.dll
+C:\Users\82030\Desktop\HR\HR\bin\Debug\System.Deployment.dll
+C:\Users\82030\Desktop\HR\HR\bin\Debug\System.dll
+C:\Users\82030\Desktop\HR\HR\bin\Debug\System.Drawing.dll
+C:\Users\82030\Desktop\HR\HR\bin\Debug\System.Web.dll
+C:\Users\82030\Desktop\HR\HR\bin\Debug\System.Web.Services.dll
+C:\Users\82030\Desktop\HR\HR\bin\Debug\System.Windows.Forms.dll
+C:\Users\82030\Desktop\HR\HR\bin\Debug\System.Xml.dll
+C:\Users\82030\Desktop\HR\HR\bin\Debug\System.Xml.Linq.dll
+C:\Users\82030\Desktop\HR\HR\obj\x86\Debug\HR.vbprojResolveAssemblyReference.cache
